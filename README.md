@@ -255,5 +255,6 @@ Contentmodel cs file
   ```
 Output:
  
+ ![WPF_TaskBar_MVVM](WPF_TaskBar_MVVM.png)
 
 
