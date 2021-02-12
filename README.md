@@ -1,5 +1,6 @@
 # How-to-Expand-or-Collapse-the-Taskbar-programmatically-using-the-MVVM-pattern-in-WPF-TaskBar-control
 This repository contains the sample that how to expand or collapse the Taskbar programmatically using the MVVM pattern in WPF TaskBar control.
+
 The Taskbar  can be expand or collapse by populating the items through ViewModel by using IsOpened property of TaskBar .The different content for each TaskBarItem, can be set by using the ContentTemplateSelector property of ContentPresenter .
 
 ```XMAL
